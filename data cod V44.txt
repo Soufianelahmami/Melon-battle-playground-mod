@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 1",
+      "desc":"Melon battle playground mod 1",
+      "photo":"https://iili.io/H40lXJp.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 2",
+      "desc":"Melon battle playground mod 2",
+      "photo":"https://iili.io/H40l8qG.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 3",
+      "desc":"Melon battle playground mod 3",
+      "photo":"https://iili.io/H40lh5N.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 4",
+      "desc":"Melon battle playground mod 4",
+      "photo":"https://iili.io/H40ljeI.jpg"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 5",
+      "desc":"Melon battle playground mod 5",
+      "photo":"https://iili.io/H40lXJp.jpg"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 6",
+      "desc":"Melon battle playground mod 6",
+      "photo":"https://iili.io/H40lh5N.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 7",
+      "desc":"Melon battle playground mod 7",
+      "photo":"https://iili.io/H40lwbt.jpg"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod Pack 8",
+      "desc":"Melon battle playground mod 8",
+      "photo":"https://iili.io/H40lOzX.jpg"}
   ]
 
 }
